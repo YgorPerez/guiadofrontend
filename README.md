@@ -193,7 +193,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
 - [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJS
 - [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
-- [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
+- [RelaX](https://dbis-uibk.github.io/relax/landing) - Crie expressões algébricas relacionais de consultas
 - [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
 - [Shields.io](https://shields.io/) - Gerador de badges para markdown
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
